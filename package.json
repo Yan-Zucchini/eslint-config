@@ -1,5 +1,5 @@
 {
-  "name": "@formater/eslint-config",
+  "name": "@yan-zucchini/eslint-config",
   "version": "1.0.0",
   "description": "My ESLint config",
   "main": "index.js",
