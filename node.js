@@ -22,6 +22,9 @@ module.exports = {
         "ecmaVersion": "latest",
         "sourceType": "module"
     },
+    "globals": {
+        "MyGlobal": true
+    },
     "rules": {
         "prettier/prettier": [
             "error",
